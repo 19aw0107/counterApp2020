@@ -1,4 +1,4 @@
-# jankenapp
+# counter
 
 ## Project setup
 ```
