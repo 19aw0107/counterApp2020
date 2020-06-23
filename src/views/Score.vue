@@ -1,7 +1,7 @@
 <template>
   <div class="score">
     <p>{{ $store.state.count }}</p>
-    <h1>This is an score page</h1>
+    <!--<h1>This is an score page</h1>-->
   </div>
 </template>
 <script>
